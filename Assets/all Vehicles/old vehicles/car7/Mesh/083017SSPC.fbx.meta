@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 772df368599aa4742849c744f85f2a8f
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: body
+  - first:
+      1: 100004
+    second: Caliper FL
+  - first:
+      1: 100006
+    second: Caliper FR
+  - first:
+      1: 100008
+    second: Caliper RL
+  - first:
+      1: 100010
+    second: Caliper RR
+  - first:
+      1: 100012
+    second: interior
+  - first:
+      1: 100014
+    second: Whl HD FL
+  - first:
+      1: 100016
+    second: Whl HD FR
+  - first:
+      1: 100018
+    second: Whl HD RL
+  - first:
+      1: 100020
+    second: Whl HD RR
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: body
+  - first:
+      4: 400004
+    second: Caliper FL
+  - first:
+      4: 400006
+    second: Caliper FR
+  - first:
+      4: 400008
+    second: Caliper RL
+  - first:
+      4: 400010
+    second: Caliper RR
+  - first:
+      4: 400012
+    second: interior
+  - first:
+      4: 400014
+    second: Whl HD FL
+  - first:
+      4: 400016
+    second: Whl HD FR
+  - first:
+      4: 400018
+    second: Whl HD RL
+  - first:
+      4: 400020
+    second: Whl HD RR
+  - first:
+      23: 2300000
+    second: body
+  - first:
+      23: 2300002
+    second: Caliper FL
+  - first:
+      23: 2300004
+    second: Caliper FR
+  - first:
+      23: 2300006
+    second: Caliper RL
+  - first:
+      23: 2300008
+    second: Caliper RR
+  - first:
+      23: 2300010
+    second: interior
+  - first:
+      23: 2300012
+    second: Whl HD FL
+  - first:
+      23: 2300014
+    second: Whl HD FR
+  - first:
+      23: 2300016
+    second: Whl HD RL
+  - first:
+      23: 2300018
+    second: Whl HD RR
+  - first:
+      33: 3300000
+    second: body
+  - first:
+      33: 3300002
+    second: Caliper FL
+  - first:
+      33: 3300004
+    second: Caliper FR
+  - first:
+      33: 3300006
+    second: Caliper RL
+  - first:
+      33: 3300008
+    second: Caliper RR
+  - first:
+      33: 3300010
+    second: interior
+  - first:
+      33: 3300012
+    second: Whl HD FL
+  - first:
+      33: 3300014
+    second: Whl HD FR
+  - first:
+      33: 3300016
+    second: Whl HD RL
+  - first:
+      33: 3300018
+    second: Whl HD RR
+  - first:
+      43: 4300000
+    second: body
+  - first:
+      43: 4300002
+    second: Caliper RL
+  - first:
+      43: 4300004
+    second: Whl HD RL
+  - first:
+      43: 4300006
+    second: Caliper FL
+  - first:
+      43: 4300008
+    second: Whl HD FL
+  - first:
+      43: 4300010
+    second: Caliper FR
+  - first:
+      43: 4300012
+    second: Whl HD FR
+  - first:
+      43: 4300014
+    second: Caliper RR
+  - first:
+      43: 4300016
+    second: Whl HD RR
+  - first:
+      43: 4300018
+    second: interior
+  - first:
+      74: 7400000
+    second: modo_Anim
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-HD-wheelrim
+    second: {fileID: 2100000, guid: 9875754e1e3c50a4fb841e966378b60a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-HD-wheeltyre
+    second: {fileID: 2100000, guid: f48c395cd2afe3c4da762096bd7e9bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-bodycolor1
+    second: {fileID: 2100000, guid: f57863734128bd743a593842067f9491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-bodycolor2
+    second: {fileID: 2100000, guid: cdd56369bbd30da41b59041d0d23a073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-bodycolor3
+    second: {fileID: 2100000, guid: 17bc77d779fa9f24a8e3ed92122bc652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-brakelights
+    second: {fileID: 2100000, guid: 2bfc8a31ab432644e9ee8addb9172eff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-carbonfiber
+    second: {fileID: 2100000, guid: fabb46caa6743dc4abc592046035ea70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-diffuse
+    second: {fileID: 2100000, guid: 2fba8eb39e811b44b808a6ff9d246d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-glass
+    second: {fileID: 2100000, guid: ba93f4ef09d5da147a30619b587154e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-interior
+    second: {fileID: 2100000, guid: 1dbdd04aa5c7ef645a7fde5f245d563b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-mirror
+    second: {fileID: 2100000, guid: 7bee3297046b30744a5dda7e1f5d043b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-reflective
+    second: {fileID: 2100000, guid: 456d5b50c11e0cb48a5c62d2cea5a23a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-trims
+    second: {fileID: 2100000, guid: 68221dd638d8d2040b0c337221412ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 083017SSPC-windows
+    second: {fileID: 2100000, guid: ce8ccf63e03e1554c9695bfd3b12e446, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
